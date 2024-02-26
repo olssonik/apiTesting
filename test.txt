@@ -1,0 +1,12 @@
+Call failed with StatusCode: 400
+Call failed with StatusCode: 400
+Call failed with StatusCode: 400
+Call failed with StatusCode: 400
+Call failed with StatusCode: 400
+Call failed with StatusCode: 400
+datetime
+Call failed with StatusCode: 400
+date
+Call failed with StatusCode: 400
+Sun Jul  2 02:21:01 PM BST 2023
+Call failed with StatusCode: 400

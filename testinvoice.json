@@ -1,0 +1,182 @@
+{
+    "VATCurrency": "EUR",
+    "VFSBankAccount": null,
+    "brand": "Renault",
+    "comments": null,
+    "creditInvoiceNumber": null,
+    "customerAddressType": "Main",
+    "customerId": "5246",
+    "date": "2022-04-25",
+    "deliveryCountry": null,
+    "deliveryDate": "2018-06-11",
+    "dueDate": "2022-04-25",
+    "exchangeRate": {
+        "currency": "EUR",
+        "date": "2023-06-29",
+        "rate": 1,
+        "refCurrency": "EUR"
+    },
+    "invoiceDistributionEmail": null,
+    "invoiceDistributionModel": "email",
+    "isCredit": false,
+    "isFullCredit": false,
+    "issueDate": "2023-06-29",
+    "legalEntity": "LT02",
+    "lines": [
+        {
+            "VATType": "ME",
+            "amount": {
+                "VAT": 0,
+                "currency": "EUR",
+                "gross": 47.3,
+                "net": 47.3
+            },
+            "asset": {
+                "VIN": "VF610A366JD010917",
+                "comments": "vilkikas Renault T13, 480, HIGHCAB, T4X2, E6",
+                "id": "10943",
+                "registrationNumber": "KBO873"
+            },
+            "contractExchangeRate": {
+                "currency": "EUR",
+                "date": "2023-06-29",
+                "rate": 1,
+                "refCurrency": "EUR"
+            },
+            "contractId": "14006",
+            "contractNumber": "1971273-2",
+            "item": "BaseInt",
+            "localAmount": {
+                "VAT": 0,
+                "currency": "EUR",
+                "gross": 47.3,
+                "net": 47.3
+            },
+            "localFinanceType": "LIT - LF",
+            "localTaxClassification": null,
+            "number": 1,
+            "orderNumber": null
+        },
+        {
+            "VATType": "NP",
+            "amount": {
+                "VAT": 0,
+                "currency": "EUR",
+                "gross": 1097.07,
+                "net": 1097.07
+            },
+            "asset": {
+                "VIN": "VF610A366JD010917",
+                "comments": "vilkikas Renault T13, 480, HIGHCAB, T4X2, E6",
+                "id": "10943",
+                "registrationNumber": "KBO873"
+            },
+            "contractExchangeRate": {
+                "currency": "EUR",
+                "date": "2023-06-29",
+                "rate": 1,
+                "refCurrency": "EUR"
+            },
+            "contractId": "14006",
+            "contractNumber": "1971273-2",
+            "item": "BaseCap",
+            "localAmount": {
+                "VAT": 0,
+                "currency": "EUR",
+                "gross": 1097.07,
+                "net": 1097.07
+            },
+            "localFinanceType": "LIT - LF",
+            "localTaxClassification": null,
+            "number": 2,
+            "orderNumber": null
+        },
+        {
+            "VATType": "ME",
+            "amount": {
+                "VAT": 0,
+                "currency": "EUR",
+                "gross": 144.37,
+                "net": 144.37
+            },
+            "asset": {
+                "VIN": "VF610A366JD010917",
+                "comments": "vilkikas Renault T13, 480, HIGHCAB, T4X2, E6",
+                "id": "10943",
+                "registrationNumber": "KBO873"
+            },
+            "contractExchangeRate": {
+                "currency": "EUR",
+                "date": "2023-06-29",
+                "rate": 1,
+                "refCurrency": "EUR"
+            },
+            "contractId": "14006",
+            "contractNumber": "1971273-2",
+            "item": "InsTPLCap",
+            "localAmount": {
+                "VAT": 0,
+                "currency": "EUR",
+                "gross": 144.37,
+                "net": 144.37
+            },
+            "localFinanceType": "LIT - LF",
+            "localTaxClassification": null,
+            "number": 3,
+            "orderNumber": null
+        },
+        {
+            "VATType": "ME",
+            "amount": {
+                "VAT": 0,
+                "currency": "EUR",
+                "gross": 101.33,
+                "net": 101.33
+            },
+            "asset": {
+                "VIN": "VF610A366JD010917",
+                "comments": "vilkikas Renault T13, 480, HIGHCAB, T4X2, E6",
+                "id": "10943",
+                "registrationNumber": "KBO873"
+            },
+            "contractExchangeRate": {
+                "currency": "EUR",
+                "date": "2023-06-29",
+                "rate": 1,
+                "refCurrency": "EUR"
+            },
+            "contractId": "14006",
+            "contractNumber": "1971273-2",
+            "item": "InsCascoCap",
+            "localAmount": {
+                "VAT": 0,
+                "currency": "EUR",
+                "gross": 101.33,
+                "net": 101.33
+            },
+            "localFinanceType": "LIT - LF",
+            "localTaxClassification": null,
+            "number": 4,
+            "orderNumber": null
+        }
+    ],
+    "paymentInstructions": "BT",
+    "paymentMethod": "BT",
+    "salesDate": "2022-04-25",
+    "sourceId": "398426",
+    "sourceSystemId": "LEO4",
+    "taxClassification": null,
+    "totalAmount": {
+        "VAT": 0,
+        "currency": "EUR",
+        "gross": 1390.07,
+        "net": 1390.07
+    },
+    "totalLocalAmount": {
+        "VAT": 0,
+        "currency": "EUR",
+        "gross": 1390.07,
+        "net": 1390.07
+    },
+    "type": "Periodic P"
+}
